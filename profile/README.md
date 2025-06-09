@@ -1,4 +1,4 @@
-# 🚀 SitePager - Automated Website Testing Made Simple
+# 🚀 Sitepager - Automated Website Testing Made Simple
 
 **Catch issues before they go live with AI-powered website monitoring that works with any stack.**
 
@@ -6,9 +6,9 @@
 [![Free Trial](https://img.shields.io/badge/Free%20Trial-Available-green)](https://www.sitepager.io)
 [![No Code Required](https://img.shields.io/badge/Setup-No%20Code%20Required-orange)](https://www.sitepager.io)
 
-## 🎯 What is SitePager?
+## 🎯 What is Sitepager?
 
-SitePager is a comprehensive automated website testing platform that helps teams identify and fix critical issues before they impact users. Our AI-powered solution runs automated tests across hundreds of pages in minutes, making it simple enough for any team to use regardless of technical expertise.
+Sitepager is a comprehensive automated website testing platform that helps teams identify and fix critical issues before they impact users. Our AI-powered solution runs automated tests across hundreds of pages in minutes, making it simple enough for any team to use regardless of technical expertise.
 
 ### **Key Value Proposition**
 - **No-code setup** - Get started instantly without plugins or complex configurations
@@ -78,23 +78,23 @@ Manage and monitor multiple websites effortlessly from a single, unified dashboa
 1. Visit [sitepager.io](https://www.sitepager.io)
 2. Start your free trial (no credit card required)
 3. Add your website URL
-4. Watch SitePager automatically discover and test your pages
+4. Watch Sitepager automatically discover and test your pages
 5. Receive your first comprehensive site report
 
-## 💡 Why Choose SitePager?
+## 💡 Why Choose Sitepager?
 
 ### **Simplicity First**
-Unlike complex testing frameworks that require technical expertise, SitePager works out of the box. No Selenium scripts, no CI/CD pipeline configuration, no maintenance overhead.
+Unlike complex testing frameworks that require technical expertise, Sitepager works out of the box. No Selenium scripts, no CI/CD pipeline configuration, no maintenance overhead.
 
 ### **Comprehensive Coverage**
-While other tools focus on single aspects like performance or broken links, SitePager provides complete website health monitoring in one platform.
+While other tools focus on single aspects like performance or broken links, Sitepager provides complete website health monitoring in one platform.
 
 ### **Business Impact Focus**
 We don't just find technical issues - we identify problems that actually impact your users, conversions, and search rankings.
 
 ## 📈 Customer Success
 
-*"SitePager caught a critical checkout flow issue that would have cost us thousands in lost conversions. It spotted visual changes our manual testing missed."*
+*"Sitepager caught a critical checkout flow issue that would have cost us thousands in lost conversions. It spotted visual changes our manual testing missed."*
 
 *"The SEO monitoring saved our rankings when a developer accidentally removed meta tags from our product pages."*
 
@@ -117,4 +117,4 @@ Experience the power of automated website testing risk-free:
 
 **Built with ❤️ for teams who care about website quality**
 
-*SitePager - Because your website deserves better than hope and manual testing.*
+*Sitepager - Because your website deserves better than hope and manual testing.*
