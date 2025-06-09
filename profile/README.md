@@ -8,18 +8,17 @@
 
 ## 🎯 What is Sitepager?
 
-Sitepager is a comprehensive automated website testing platform that helps teams identify and fix critical issues before they impact users. Our AI-powered solution runs automated tests across hundreds of pages in minutes, making it simple enough for any team to use regardless of technical expertise.
+Sitepager is a comprehensive automated website testing platform that helps teams identify and fix critical issues before they impact users. Sitepager runs automated checks across hundreds of pages in minutes, making it simple enough for any team to use regardless of technical expertise.
 
 ### **Key Value Proposition**
 - **No-code setup** - Get started instantly without plugins or complex configurations
 - **Works with any stack** - Compatible with custom, hybrid, or no-code websites
-- **Human-like AI monitoring** - AI reviews your site the way humans do
-- **Comprehensive testing** - From visual changes to SEO issues, we catch it all
+- **Comprehensive testing** - From visual changes to performance to SEO issues, we catch it all
 
 ## ⚡ Core Features
 
 ### 🔍 **Visual Change Detection**
-Instantly catch visual changes with our AI-powered monitoring system that reviews your site like a human, detecting layout shifts, broken elements, and design inconsistencies.
+Instantly catch visual changes with a simple to use system that reviews your site like a human, detecting layout shifts, broken elements, and design inconsistencies.
 
 ### 📊 **SEO Guard**
 Proactively find SEO issues before they impact your rankings:
@@ -57,8 +56,8 @@ Manage and monitor multiple websites effortlessly from a single, unified dashboa
 ## 🛠️ How It Works
 
 1. **Quick Setup** - Add your website URL (no code or plugins required)
-2. **AI Analysis** - Our AI crawls and analyzes your entire site
-3. **Automated Testing** - Continuous monitoring runs comprehensive tests
+2. **Analysis** - Sitepager crawls and analyzes your entire site
+3. **Automated Checks** - Continuous monitoring runs comprehensive tests
 4. **Instant Alerts** - Get notified immediately when issues are detected
 5. **Detailed Reports** - Receive actionable insights to fix problems fast
 
@@ -69,7 +68,7 @@ Manage and monitor multiple websites effortlessly from a single, unified dashboa
 - **SEO Specialists** - Monitor technical SEO health continuously
 - **E-commerce Sites** - Prevent broken checkout flows and product pages
 - **Agencies** - Monitor multiple client websites from one dashboard
-- **Startups** - Get enterprise-level monitoring without the complexity
+- **Startups** - Get enterprise-level monitoring and checks without the complexity
 
 ## 🚀 Getting Started
 
