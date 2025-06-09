@@ -1,6 +1,10 @@
 # 🚀 Sitepager - Automated Website Testing Made Simple
 
-**Catch issues before they go live with AI-powered website monitoring that works with any stack.**
+**Catch website issues before they go live.**
+
+**Scan your site for performance issues, broken links, visual bugs, and SEO gaps - all in one place.**
+
+**Fix them before they impact your conversions and rankings.**
 
 [![Website](https://img.shields.io/badge/Website-sitepager.io-blue)](https://www.sitepager.io)
 [![Free Trial](https://img.shields.io/badge/Free%20Trial-Available-green)](https://www.sitepager.io)
@@ -14,6 +18,8 @@ Sitepager is a comprehensive automated website testing platform that helps teams
 - **No-code setup** - Get started instantly without plugins or complex configurations
 - **Works with any stack** - Compatible with custom, hybrid, or no-code websites
 - **Comprehensive testing** - From visual changes to performance to SEO issues, we catch it all
+
+**No code. No setup. Just enter your URL to start testing.**
 
 ## ⚡ Core Features
 
