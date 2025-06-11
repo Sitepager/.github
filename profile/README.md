@@ -1,10 +1,8 @@
 # 🚀 Sitepager - Automated Website Testing Made Simple
 
-**Catch website issues before they go live.**
+**Scan your site for broken links, visual bugs, performance issues, and SEO gaps - all in one place.**
 
-**Scan your site for performance issues, broken links, visual bugs, and SEO gaps - all in one place.**
-
-**Fix them before they impact your conversions and rankings.**
+Fix issues before they hurt user experience, conversions and rankings — no code, no setup, just enter your URL.
 
 [![Website](https://img.shields.io/badge/Website-sitepager.io-blue)](https://www.sitepager.io)
 [![Free Trial](https://img.shields.io/badge/Free%20Trial-Available-green)](https://www.sitepager.io)
@@ -12,26 +10,28 @@
 
 ## 🎯 What is Sitepager?
 
-Sitepager is a comprehensive automated website testing platform that helps teams identify and fix critical issues before they impact users. Sitepager runs automated checks across hundreds of pages in minutes, making it simple enough for any team to use regardless of technical expertise.
+Sitepager is a comprehensive automated website testing platform that helps teams identify and fix critical issues before they impact users. 
+
+Sitepager runs automated checks across hundreds of pages in minutes, making it simple enough for any team to use regardless of technical expertise.
 
 ### **Key Value Proposition**
 - **No-code setup** - Get started instantly without plugins or complex configurations
-- **Works with any stack** - Compatible with custom, hybrid, or no-code websites
-- **Comprehensive testing** - From visual changes to performance to SEO issues, we catch it all
+- **Works with any stack** - Compatible with Webflow, Framer, WordPress, and other no-code, hybrid, or custom websites
+- **Comprehensive testing** - From visual changes to performance to SEO issues, we catch it all in one place
 
 **No code. No setup. Just enter your URL to start testing.**
 
 ## ⚡ Core Features
 
 ### 🔍 **Visual Change Detection**
-Instantly catch visual changes with a simple to use system that reviews your site like a human, detecting layout shifts, broken elements, and design inconsistencies.
+Instantly catch visual changes that impact UX. Detect design inconsistencies, layout shifts, and visual bugs before publishing the changes. Run tests across desktop and mobile views, different versions, or compare staging vs production.
 
 ### 📊 **SEO Guard**
 Proactively find SEO issues before they impact your rankings:
-- Missing meta tags detection
+- Missing title and meta description tags
 - Alt text validation
 - Improper heading structure analysis
-- Content optimization suggestions
+- (WIP) Content optimization suggestions
 
 ### 🔗 **Broken Link Testing**
 Automatically detect and report broken internal and external links before they frustrate users or cause conversion drop-offs.
@@ -46,18 +46,26 @@ Built-in automated audits powered by Google Lighthouse for:
 ### 🗺️ **Sitemap Analysis**
 Ensure complete search engine visibility by detecting sitemap gaps and missing important pages before they impact your search rankings.
 
-### ⚙️ **Dynamic Content Testing**
-Verify that interactive elements and dynamic content display and function correctly across all devices and browsers.
+### ⚙️ **Interactive Element Testing**
+Automate testing and verifying interactive elements such as hovers and menus display and function correctly on all devices.
 
 ### 🌍 **Geolocation-Specific Testing**
 Test location-specific content including:
 - Language variations
 - Regional legal disclaimers
 - Location-based features
-- Currency and pricing displays
+- Cookies and compliance displays
 
 ### 🏢 **Multi-Site Management**
 Manage and monitor multiple websites effortlessly from a single, unified dashboard with centralized reporting and alerting.
+
+### 🛠️ **Environment Comparison:** 
+
+Compare staging vs production to see exactly what changed before going live.
+
+### 🔐 **Authenticated Pages:** 
+
+Run tests behind login using credentials or cookie setup.
 
 ## 🛠️ How It Works
 
@@ -69,10 +77,8 @@ Manage and monitor multiple websites effortlessly from a single, unified dashboa
 
 ## 🎯 Perfect For
 
-- **Development Teams** - Catch regressions before deployment
 - **Marketing Teams** - Ensure campaigns and landing pages work flawlessly
-- **SEO Specialists** - Monitor technical SEO health continuously
-- **E-commerce Sites** - Prevent broken checkout flows and product pages
+- **Website Designers** - Test design updates, consistency, and responsiveness automatically. Spend more time creating
 - **Agencies** - Monitor multiple client websites from one dashboard
 - **Startups** - Get enterprise-level monitoring and checks without the complexity
 
@@ -84,24 +90,27 @@ Manage and monitor multiple websites effortlessly from a single, unified dashboa
 2. Start your free trial (no credit card required)
 3. Add your website URL
 4. Watch Sitepager automatically discover and test your pages
-5. Receive your first comprehensive site report
+5. Receive your first detailed site report
 
 ## 💡 Why Choose Sitepager?
+
+### **Purpose-built for Websites**
+Most testing tools are designed for end-to-end testing of complex web apps. But marketing sites have different needs, and Sitepager is built specifically for them.
 
 ### **Simplicity First**
 Unlike complex testing frameworks that require technical expertise, Sitepager works out of the box. No Selenium scripts, no CI/CD pipeline configuration, no maintenance overhead.
 
 ### **Comprehensive Coverage**
-While other tools focus on single aspects like performance or broken links, Sitepager provides complete website health monitoring in one platform.
+While other tools focus on single aspects like visual testing, performance or broken links, Sitepager provides complete website health monitoring in one platform. No switching tools or tabs.
 
 ### **Business Impact Focus**
-We don't just find technical issues - we identify problems that actually impact your users, conversions, and search rankings.
+Websites are often the first point of interaction between users and your brand. Website issues are not just technical issues, they impact your users, conversions, and search rankings. Sitepager is the all-in-one tool that helps you catch these issues before they become expensive.
 
 ## 📈 Customer Success
 
-*"Sitepager caught a critical checkout flow issue that would have cost us thousands in lost conversions. It spotted visual changes our manual testing missed."*
+*"Sitepager caught a broken mobile menu hours before a global launch. Without Sitepager, it would’ve gone unnoticed."*
 
-*"The SEO monitoring saved our rankings when a developer accidentally removed meta tags from our product pages."*
+*"We check our site twice a week for broken links and visual issues using Sitepager. The simple UI makes it easy for our website team to run checks independently, without needing help from dev or QA."*
 
 ## 🔗 Resources
 
@@ -120,6 +129,6 @@ Experience the power of automated website testing risk-free:
 
 ---
 
-**Built with ❤️ for teams who care about website quality**
+**Built with ❤️ for teams who care about websites**
 
-*Sitepager - Because your website deserves better than hope and manual testing.*
+*Sitepager - Catch website issues before they go live and impact conversions and rankings.*
