@@ -65,7 +65,7 @@ Compare staging vs production to see exactly what changed before going live.
 
 ### 🔐 **Authenticated Pages:** 
 
-Run tests behind login using credentials or cookie setup.
+Run tests behind login using credentials.
 
 ## 🛠️ How It Works
 
